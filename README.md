@@ -48,7 +48,7 @@ Credible and efficient, with personalized functions to streamline internal compa
                <br>
 <h3 align="center">Drinking Game</h3>
 <div align="center">                                       
-<a href="https://letsmakehappymemories.com" target="_blank"><img src="http://drive.google.com/uc?export=view&id=1tazs_7pRW6WkLzKa7JTlIA_-FRjPFFfp" width="400" alt="Drinking Game"></a>
+<a href="https://letsmakehappymemories.com" target="_blank"><img src="http://drive.google.com/uc?export=view&id=1tazs_7pRW6WkLzKa7JTlIA_-FRjPFFfp" alt="Drinking Game"></a>
 <br>
   <br>
 <p>A professional, SEO optimized Website. 

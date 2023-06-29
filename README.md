@@ -26,7 +26,7 @@
 - 🌐 Wordpress Expert
 - 📗 Always learning to becoming a better developer
 - 📕 Fluent English
-- 📖 Portfolio: <a href="https://saulhernandezzc.github.io">Click Here</a>
+- 📖 Portfolio: <a href="https://saulhernandezzc.github.io">Click Here</a> (On Construction)
 <br>
 
 ## Some websites that I have built
@@ -39,7 +39,7 @@
 <br>
   <br>
 <p>A professional, SEO optimized Website. 
-Credible and efficient, with personalized functions to streamline internal company processes, such as digital contracts, virtual forms and more things requested by the client</p>
+Credible and efficient, with personalized functions to streamline internal company processes, such as digital contracts, virtual forms and more things requested by the client.</p>
 </div>
                                                                                       
 </td>
@@ -51,7 +51,8 @@ Credible and efficient, with personalized functions to streamline internal compa
 <a href="https://letsmakehappymemories.com" target="_blank"><img src="http://drive.google.com/uc?export=view&id=1tazs_7pRW6WkLzKa7JTlIA_-FRjPFFfp" width="400" alt="Drinking Game"></a>
 <br>
   <br>
-<p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+<p>A professional, SEO optimized Website. 
+Credible and efficient, with personalized functions to streamline internal company processes, such as digital contracts, virtual forms and more things requested by the client.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -76,7 +77,7 @@ Credible and efficient, with personalized functions to streamline internal compa
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/SaulHernandezzc">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaulHernandezzc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaulHernandezzc&layout=compact&langs_count=8&theme=algolia"/>
 </a>

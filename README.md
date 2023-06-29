@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hi, I'm Saul Hernandez</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="http://drive.google.com/uc?export=view&id=1LmHsjn58qbwKXjYbIiY3K9RSZQVZLzTz">
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hely-saul-hernandez-31760b214/" target="_blank">
@@ -34,7 +35,7 @@
 <td width="50%">
 <h3 align="center">GPS Company</h3>
 <div align="center">
-<a href="https://trackerinternationalinc.com" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://trackerinternationalinc.com" target="_blank"><img src="http://drive.google.com/uc?export=view&id=1jUaNf6UKS_jvr3ujn8YojFrtzHm8Bci3" width="400" alt="Tracker International"></a>
 <br>
   <br>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
@@ -46,7 +47,7 @@
                <br>
 <h3 align="center">Drinking Game</h3>
 <div align="center">                                       
-<a href="https://letsmakehappymemories.com" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Drinking Game"></a>
+<a href="https://letsmakehappymemories.com" target="_blank"><img src="http://drive.google.com/uc?export=view&id=1tazs_7pRW6WkLzKa7JTlIA_-FRjPFFfp" width="400" alt="Drinking Game"></a>
 <br>
   <br>
 <p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
@@ -59,7 +60,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,photoshop,illustrator,wordpress,premiere,css,discord,docker,figma,github,html,js,php,python,linux,mysql,react,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=photoshop,illustrator,wordpress,premiere,css,discord,figma,html,js,php,linux,vscode&perline=14" />
+  </a>
+</p>
+
+### 👨‍💻 Currently Learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,docker,github,python,mysql,react,&perline=14" />
   </a>
 </p>
 

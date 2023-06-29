@@ -36,6 +36,8 @@
 <h3 align="center">GPS Company</h3>
 <div align="center">
 <a href="https://trackerinternationalinc.com" target="_blank"><img src="http://drive.google.com/uc?export=view&id=1jUaNf6UKS_jvr3ujn8YojFrtzHm8Bci3" width="400" alt="Tracker International"></a>
+  <img src="https://imgur.com/dDfSkyN">
+  <img src="http://drive.google.com/uc?export=view&id=1jUaNf6UKS_jvr3ujn8YojFrtzHm8Bci3">
 <br>
   <br>
 <p>A professional, SEO optimized Website. 

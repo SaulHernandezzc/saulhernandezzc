@@ -38,7 +38,8 @@
 <a href="https://trackerinternationalinc.com" target="_blank"><img src="http://drive.google.com/uc?export=view&id=1jUaNf6UKS_jvr3ujn8YojFrtzHm8Bci3" width="400" alt="Tracker International"></a>
 <br>
   <br>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>A professional, SEO optimized Website. 
+Credible and efficient, with personalized functions to streamline internal company processes, such as digital contracts, virtual forms and more things requested by the client</p>
 </div>
                                                                                       
 </td>
